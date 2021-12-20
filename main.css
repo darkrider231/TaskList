@@ -164,8 +164,8 @@ h3 {
 }
 
 /* Screen Resolutions for Smaller Sizes */
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 750px) {
     * {
-        font-size: 9px;
+        font-size: 20px;
     }
 }
