@@ -163,6 +163,11 @@ h3 {
     padding-top: 230px;
 }
 
+h4 {
+    text-align: center;
+    padding-top: 25px;
+}
+
 /* Screen Resolutions for Smaller Sizes */
 @media screen and (max-width: 750px) {
     * {
