@@ -157,3 +157,8 @@ main {
 .task .actions .delete {
     color: crimson;
 }
+
+h3 {
+    text-align: center;
+    padding-top: 230px;
+}
