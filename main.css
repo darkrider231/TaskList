@@ -162,3 +162,10 @@ h3 {
     text-align: center;
     padding-top: 230px;
 }
+
+/* Screen Resolutions for Smaller Sizes */
+@media screen and (max-width: 400px) {
+    * {
+        font-size: 12px;
+    }
+}
